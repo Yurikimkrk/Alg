@@ -9,3 +9,4 @@ while x > 1:
     sum += numb
     x -= 1
 print(sum)
+
