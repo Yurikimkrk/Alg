@@ -22,20 +22,3 @@ for i in factories:
         less.append(i)
 print(f"factories with profit more than average - {', '.join(more)}")
 print(f"factories with profit less than average - {', '.join(less)}")
-
-
-
-
-
-
-
-
-
-
-
-# counter = collections.Counter()
-# for word in ['spam', 'egg', 'spam', 'counter', 'counter', 'counter']:
-#     counter[word] += 1
-# print(counter)
-# print(counter['counter'])
-# print(counter['collections'])
